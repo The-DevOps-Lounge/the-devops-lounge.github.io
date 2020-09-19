@@ -16,6 +16,6 @@ Located in America.
 
 ## Phill Hocking
 
-Moderator and extremely talent engineer with many years of experience. Specialises in a whole host of things from IP Telephony, server administration, desktop support and DevOps. Very busy guy. Basically runs a hospital.
+Moderator and extremely talented engineer with many years of experience. Specialises in a whole host of things from IP Telephony, server administration, desktop support and DevOps. Very busy guy. Basically runs a hospital.
 
 Located in America.
