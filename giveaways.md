@@ -1,4 +1,3 @@
-# Giveaways
 
 The DevOps Lounge (TDOL) community has been setup to encourage others to learn more about DevOps and IT in general. To help people on their path to becoming a DevOp or even just getting into the industry, TDOL runs regular competitions that encourage people to test their skills and show off what they can do. In return for their efforts TDOL awards prizes to the winner as well as runners up.
 

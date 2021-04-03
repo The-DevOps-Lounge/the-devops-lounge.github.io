@@ -1,4 +1,3 @@
-# Rules
 
 The community has some basic rules in place. These should be simple enough to follow along with:
 
@@ -10,6 +9,7 @@ The community has some basic rules in place. These should be simple enough to fo
 1. No excessive or obnoxious use of foul language. It’s low brow and you’re more intelligent than that. (And no, swearing is not “what makes us Australian.”);
 1. The administrative/moderation team have the right to remove messages they feel breech any of the above rules. Although their say is NOT final, and you can appeal it, try to avoid getting into that situation to begin with;
 1. If it isn’t about technology or it's a joke/meme, then it goes in #off-topic - let's keep #general and other channels on topic;
+1. The #blackhole channel is for debates that have gone off on a tangent like an IRC channel from way back when you were a kid. Enjoy.
 
 These rules may change and we'll try to give you notice ahead of time and after any changes.
 
