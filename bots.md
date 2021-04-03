@@ -6,7 +6,7 @@ We have a few bots connected to the server 24/7:
 - DISBOARD
 - MonitoRSS
 
-The MEE6 bot is a general purpose Discord bot that's for managing the server, keeping track of user's interactions and awarding them with levels as they stay active (see `promotion.md`). The bot is also used for automated moderation such as preventing spamming and kicking or banning users who breach these rules.
+The MEE6 bot is a general purpose Discord bot that's for managing the server, keeping track of user's interactions and awarding them with levels as they stay active (see [`promotion.md`](/promotion.md)). The bot is also used for automated moderation such as preventing spamming and kicking or banning users who breach these rules.
 
 The DISBOARD bot is a very simple bot that keeps track of the server's population and tracks it on a global, public board.
 

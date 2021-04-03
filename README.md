@@ -12,13 +12,13 @@ Please consult the [`rules.md`](/rules.md) file before connecting to the server.
 
 If you're interested in understanding what else our community can offer, how we operate, who are staff are, and more, then consider reviewing the following documents:
 
-- `staff.md`
-- `promotion.md`
-- `bots.md`
-- `giveaways.md`
+- [`staff.md`](/staff.md)
+- [`promotion.md`](/promotion.md)
+- [`bots.md`](/bots.md)
+- [`giveaways.md`](/giveaways.md)
 
 All feedback on these documents is welcome.
 
 ## Sponsorship
 
-The server is currently self-sponsored by its founder, Michael Crilly, using profits obtained via his business, OpsFactory Pty Ltd.
+The server is currently self-sponsored by its founder, Michael Crilly, using profits obtained via his business, [OpsFactory Pty Ltd.](https://www.opsfactory.com.au/)
