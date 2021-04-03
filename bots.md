@@ -1,3 +1,4 @@
+# Bots
 
 We have a few bots connected to the server 24/7:
 

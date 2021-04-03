@@ -1,3 +1,4 @@
+# Rules
 
 The community has some basic rules in place. These should be simple enough to follow along with:
 

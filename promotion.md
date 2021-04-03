@@ -1,3 +1,4 @@
+# Promotion
 
 As people use the server by engaging in conversation with others they gain experience with the Mee6 bot. The bot keeps track of your progress as a user of the server and assigns you levels. These levels have an important role in how you'll (eventually) be preceived by the rest of the community. As it stands now we have three tiers that a member of the community can be promoted to automatically:
 
