@@ -1,6 +1,6 @@
 # The DevOps Lounge
 
-The DevOps Lounge is a Dicord community and this repository contains documentation pertaining to that community, which can be joined via this link: [Discord - Click Me!](https://discord.gg/MTzBvSS)
+The DevOps Lounge is a Discord community and this repository contains documentation pertaining to that community, which can be joined via this link: [Discord - Click Me!](https://discord.gg/MTzBvSS)
 
 Our community is centered around learning, sharing ideas, inclusiveness and professionalism. If you're not in the IT industry but you're looking to get into it then you're welcome here. If you're already in the IT industry and have experience and knowledge to share, then you're also welcome.
 
