@@ -46,7 +46,7 @@ Located in America.
 
 Project Manager. It master legend wizard lord.
 
-Located in Canada.
+Located in America.
 
 ## Promotion
 
